@@ -29,3 +29,7 @@ console.log('master/version13')
 console.log('branch7');
 
 console.log('branch7/version16/git revert usage');
+
+// switched to use git revert
+
+console.log('branch7/version16/git revert in action 1');
