@@ -27,3 +27,5 @@ console.log('branch4/version12/stash usage');
 console.log('master/version13')
 
 console.log('branch7');
+
+console.log('branch7/version16/git revert usage');
