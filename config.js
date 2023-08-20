@@ -25,3 +25,5 @@ console.log('branch4');
 console.log('branch4/version12/stash usage');
 
 console.log('master/version13')
+
+console.log('master/version13/waiting for git reset, restore and revert')
