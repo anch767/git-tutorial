@@ -15,3 +15,7 @@ console.log('master/version10a/uncommit')
 console.log('master/version10a/add and commit')
 
 console.log('master/version10b/stash usage')
+
+console.log('branch3');
+
+console.log('branch3/version11/stash usage');
