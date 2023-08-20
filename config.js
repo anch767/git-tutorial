@@ -34,6 +34,4 @@ console.log('branch6/version15/git restore usage');
 
 console.log('branch6/version15/git restore in action 1');
 
-console.log('branch6/version15/git restore in action 2');
-
-console.log('branch6/version15/git restore in action 3');
+// done in using git restore
