@@ -34,4 +34,9 @@ console.log('branch5/version14/git reset in action 1');
 
 console.log('branch5/version14/git reset in action 2');
 
-console.log('branch5/version14/git reset in action 3');
+console.log('branch5/version14/git reset in action 3'); 
+
+// git reset was used, but then the 3 commits in action1 2 and 3 was removed. 
+// doing 3 commits again
+
+console.log('branch5/version14/git reset in action 1.1');
