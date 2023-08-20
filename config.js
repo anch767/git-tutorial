@@ -25,3 +25,13 @@ console.log('branch4');
 console.log('branch4/version12/stash usage');
 
 console.log('master/version13')
+
+console.log('branch5');
+
+console.log('branch5/version14/git reset usage');
+
+console.log('branch5/version14/git reset in action 1');
+
+console.log('branch5/version14/git reset in action 2');
+
+console.log('branch5/version14/git reset in action 3');
