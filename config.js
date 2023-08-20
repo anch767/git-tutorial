@@ -33,3 +33,5 @@ console.log('branch6/version15/git restore usage');
 // just finished working on using git reset
 
 console.log('branch6/version15/git restore in action 1');
+
+console.log('branch6/version15/git restore in action 2');
