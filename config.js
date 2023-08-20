@@ -35,3 +35,5 @@ console.log('branch7/version16/git revert usage');
 console.log('branch7/version16/git revert in action 1');
 
 console.log('branch7/version16/git revert in action 2');
+
+console.log('branch7/version16/git revert in action 3');
