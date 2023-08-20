@@ -19,3 +19,7 @@ console.log('master/version10b/stash usage')
 console.log('branch3');
 
 console.log('branch3/version11/stash usage');
+
+console.log('branch4');
+
+console.log('branch4/version12/stash usage');
