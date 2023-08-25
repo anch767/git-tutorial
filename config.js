@@ -26,6 +26,32 @@ console.log('branch4/version12/stash usage');
 
 console.log('master/version13')
 
+console.log('branch5');
+
+console.log('branch5/version14/git reset usage');
+
+console.log('branch5/version14/git reset in action 1');
+
+console.log('branch5/version14/git reset in action 2');
+
+console.log('branch5/version14/git reset in action 3'); 
+
+// git reset was used, but then the 3 commits in action1 2 and 3 was removed. 
+// doing 3 commits again
+
+console.log('branch5/version14/git reset in action 1.1');
+
+
+console.log('branch6');
+
+console.log('branch6/version15/git restore usage');
+
+// just finished working on using git reset
+
+console.log('branch6/version15/git restore in action 1');
+
+// done in using git restore
+
 console.log('branch7');
 
 console.log('branch7/version16/git revert usage');
