@@ -65,3 +65,7 @@ console.log('branch7/version16/git revert in action 1');
 console.log('branch8/version17');
 
 // changed master to main branch
+
+// new version added
+
+console.log('main/version18')
