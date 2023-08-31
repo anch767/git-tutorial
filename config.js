@@ -66,3 +66,6 @@ console.log('branch8/version17');
 
 console.log('branch8/version17/push branch8 to remote branch8(not yet in repo)');
 
+// cloned remote repository and work with remote branch locally
+
+console.log('work with remote branch/branch8r');
