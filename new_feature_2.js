@@ -1,0 +1,1 @@
+console.log('add new_feature_2.js on feature-branch2');
